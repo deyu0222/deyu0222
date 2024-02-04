@@ -28,7 +28,7 @@ pdflatex main.tex
 👤 **Deyu Zhang**
 
 * Facebook: [@Deyu Zhang](https://www.facebook.com/profile.php?id=100077020251549)
-* GitHub: [@Deyu Zhang](https://github.com/arasgungore)
+* GitHub: [@Deyu Zhang](https://github.com/deyu0222)
 
 
 
