@@ -1,4 +1,4 @@
-# arasgungore-CV
+# Arasgungore-CV
 
 My curriculum vitae (CV) written using LaTeX. In my CV, you may find my contact information, websites, education, experience, achievements, projects, and skills.
 
@@ -25,10 +25,10 @@ pdflatex main.tex
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Deyu Zhang**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* Facebook: [@Deyu Zhang]([https://www.linkedin.com/in/arasgungore](https://www.facebook.com/profile.php?id=100077020251549))
+* GitHub: [@Deyu Zhang](https://github.com/arasgungore)
 
 
 
