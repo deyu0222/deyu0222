@@ -19,7 +19,7 @@
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.wangrs.co/"><img src="./resources/wrs_mpu.png" align="bottom" width="500px"/></a>
 </p-->
-  <h3 align="center">王荣胜｜Rongsheng Wang <img src="./resources/Hi.gif" width="29px"> </h3>
+  <h3 align="center">Deyu Zhang｜Rongsheng Wang <img src="./resources/Hi.gif" width="29px"> </h3>
  <!-- <h5 align="center">💻做一切看起来都不那么容易实现的事情🎨</h5> -->
   <!--h5 align="center">💻Doing everything🎨 that seems not so easy to achieve!</h5-->
   <!--I'm Rongsheng Wang, a master of Macao Polytechnic University. Welcome to join <a href="https://github.com/Turbo-AGI">Turbo-AGI Research Group</a>, We are dedicated to building safe, reliable, and practical visual and language AI models to serve society. We also own a company which you can learn about by visiting <a href="https://github.com/QiYuan-tech">Qiyuan.Tech</a>.-->
